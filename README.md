@@ -1,5 +1,5 @@
-[![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayconpm&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Mayconpm/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconpm&layout=compact&theme=dracula)](https://github.com/Mayconpm/github-readme-stats)
+<!-- [![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayconpm&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/Mayconpm/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayconpm&layout=compact&theme=dracula)](https://github.com/Mayconpm/github-readme-stats) -->
 
 <!--
 **Mayconpm/Mayconpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
