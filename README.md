@@ -2,7 +2,11 @@
     <span>Maycon Paqui</span>
 </h1>
 
-Olá, Sou Maycon Engenheiro Mecânico formada pela UERJ, desenvolvendo as habilidades necessarias para me tornar Ciêntista de Dados.
+<p align="left">
+  <a>
+     Olá, Sou Maycon Engenheiro Mecânico formada pela UERJ, desenvolvendo as habilidades necessarias para me tornar Ciêntista de Dados.    
+  </a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 
