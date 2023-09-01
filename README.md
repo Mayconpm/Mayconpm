@@ -20,20 +20,21 @@
 </div>
 
 <div>
-    <h3 align="left">GitHub Stats</h3>
-    <p align="left">
+    <h3 align="center">GitHub Stats</h3>
+    <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-          <img height=200 align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayconpm&&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&bg_color=EB545400" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayconpm&theme=nord&bg_color=EB545400&layout=compact"/>
+          <img width=500em align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayconpm&&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&bg_color=EB545400"/>
         </a>
     </p>
+    <p align="center">
+        <a href="https://git.io/streak-stats"><img width=500em src="https://streak-stats.demolab.com?user=Mayconpm&theme=nord&background=EB545400"/></a>
+     </p>    
+     <p align="center">
+<!--         <a href="github.com/anuraghazra/github-readme-stats"> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayconpm&theme=nord&bg_color=EB545400&layout=compact"/>
+<!--         </a> -->
+    </p>        
 </div>    
-<!--     <br>
-    <a href="https://streak-stats.demolab.com/demo/" target="_blank">
-        <img height=200 align="right" src="https://streak-stats.demolab.com?user=Mayconpm&theme=nord&background=EB545400"/>  
-    </a> -->
 <!-- <div>
     <h3 align="left">Principais Projetos</h3>
     <p align="left">
