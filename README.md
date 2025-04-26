@@ -4,7 +4,7 @@
 <div>
     <p align="left">
       <a>
-         Olá, Sou Maycon Engenheiro Mecânico formada pela UERJ, desenvolvendo as habilidades necessarias para me tornar Ciêntista de Dados.    
+         Olá, Sou Maycon Engenheiro Mecânico formado pela UERJ, desenvolvendo as habilidades necessarias para me tornar Ciêntista de Dados.    
       </a>
     </p>
 </div>
